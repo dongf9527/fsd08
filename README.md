@@ -3,7 +3,7 @@ Code Management Tools & Testing Assignment
 
 ###Author: wpeter@cn.ibm.com
 
-### git
+### Git
 https://github.com/dongf9527/fsd08.git
 
 ### Getting started
